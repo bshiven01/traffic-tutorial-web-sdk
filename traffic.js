@@ -1,4 +1,4 @@
-var apiKey = TOMTOM_API_KEY;
+var apiKey = TOMTOM_API_KEY
 var centerCoords = [4.89218, 52.37187];
 var initialZoom = 13;
 var map = tt.map({
